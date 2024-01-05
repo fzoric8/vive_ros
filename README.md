@@ -65,3 +65,10 @@ Update
 1. Hardware Safety code added in order to shutdown of hardware. This will prevent hardware from any damage caused due to abrupt shutdown.
 
 2. It has code updated for publishing HTC Vive Component (HTC Vive Headset and 2 HTC Controllers) data.
+
+
+Rest of the links: 
+
+- [How to use HTC Vive on Linux](https://www.reddit.com/r/linux_gaming/comments/v9uprl/how_do_you_set_up_an_htc_vive_on_linux/)
+- [Vive Pro on Linux](https://github.com/santeri3700/vive-pro-2-on-linux)
+- 
