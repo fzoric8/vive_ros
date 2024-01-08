@@ -67,10 +67,14 @@ Update
 2. It has code updated for publishing HTC Vive Component (HTC Vive Headset and 2 HTC Controllers) data.
 
 
+Rest of the links: 
+
+- [How to use HTC Vive on Linux](https://www.reddit.com/r/linux_gaming/comments/v9uprl/how_do_you_set_up_an_htc_vive_on_linux/)
+- [Vive Pro on Linux](https://github.com/santeri3700/vive-pro-2-on-linux)
+
 ## Starter TODO: 
 - [ ] Connect VIVE to the PC
 - [ ] Add udev rules
-- [ ] download steam_latest.deb from this [link](https://repo.steampowered.com/steam/) 
-- [ ] Run package and test how it works! 
-
+- [ ] download steam_latest.deb from this [link](https://repo.steampowered.com/steam/)
+- [ ] Run package and test how it works!
 
